@@ -1,6 +1,7 @@
 # chenhao_define
 # 自定义
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,telegrame.org
 DOMAIN-SUFFIX,anidb.net
 DOMAIN,mikanani.me
 DOMAIN-SUFFIX,apkpure.net
