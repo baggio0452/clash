@@ -1,0 +1,23 @@
+# chenhao_define
+# 自定义
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,anidb.net
+DOMAIN,mikanani.me
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN,sportscult.org
+DOMAIN,aniopen.an-i.workers.dev
+DOMAIN,resources.ani.rip
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,plex.tv
+DOMAIN,raw.githubusercontent.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,themoviedb.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.org
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,movie-pilot.org
